@@ -4,3 +4,4 @@
 2. Menggunakan fitur pull request
 3. Melakukan merge branch
 4. Melakukan revert
+5. Melakukan Squash Merge
