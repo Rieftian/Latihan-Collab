@@ -6,4 +6,4 @@
 4. Melakukan merge branch
 5. Melakukan revert
 6. Melakukan Squash Merge
-7. Melakukan Riviu aaaaaaaaaa
+7. Melakukan Review
