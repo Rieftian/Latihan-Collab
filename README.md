@@ -1,7 +1,8 @@
 # Belajar Kolaborasi
 *Yang sudah dipelajari :*<br>  
-1. Menerima kolaborator
-2. Menggunakan fitur pull request
-3. Melakukan merge branch
-4. Melakukan revert
-5. Melakukan Squash Merge
+1. Mengubah repository menjadi public
+2. Menerima kolaborator
+3. Menggunakan fitur pull request
+4. Melakukan merge branch
+5. Melakukan revert
+6. Melakukan Squash Merge
